@@ -1,0 +1,3 @@
+# Hashing in python
+# Pre-storing values into some data-structure like List/Dictionary/Set and the fetching it. 
+
